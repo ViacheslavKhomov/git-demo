@@ -1,0 +1,23 @@
+[33mcommit 33b05f8a7ee202c400f26e8cabfa128a86b59d6e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Khomov Viacheslav <khomovslava@hmail.com>
+Date:   Wed Jun 1 10:56:14 2022 +0300
+
+    add two more lines to my song
+
+[33mcommit 4d7aed6376b7c54219149efb2f9838e0605e486f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ViacheslavKhomov <106595590+ViacheslavKhomov@users.noreply.github.com>
+Date:   Wed Jun 1 10:45:07 2022 +0300
+
+    add two more lines to the song
+
+[33mcommit 38fb55036801fc8bdf6ea21543c43a8269834e90[m
+Author: Khomov Viacheslav <khomovslava@hmail.com>
+Date:   Wed Jun 1 10:40:13 2022 +0300
+
+    add first 2 lines in the song
+
+[33mcommit f27a4374f9ad4c62abbd0bc41c931911093ebd28[m
+Author: ViacheslavKhomov <106595590+ViacheslavKhomov@users.noreply.github.com>
+Date:   Wed Jun 1 10:27:14 2022 +0300
+
+    Initial commit
